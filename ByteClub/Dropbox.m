@@ -8,11 +8,11 @@
 
 #import "Dropbox.h"
 
-#warning INSERT YOUR OWN API KEY and SECRET HERE
-static NSString *apiKey = @"YOUR_KEY";
-static NSString *appSecret = @"YOUR_SECRET";
+//#warning INSERT YOUR OWN API KEY and SECRET HERE
+static NSString *apiKey = @"mi1juyz5b0wbckc";
+static NSString *appSecret = @"u0zjsqbdscbe616";
 
-#warning THIS FOLDER MUST BE CREATED AT THE TOP LEVEL OF YOUR DROPBOX FOLDER, you can then share this folder with others
+//#warning THIS FOLDER MUST BE CREATED AT THE TOP LEVEL OF YOUR DROPBOX FOLDER, you can then share this folder with others
 NSString * const appFolder = @"byteclub";
 
 NSString * const oauthTokenKey = @"oauth_token";
